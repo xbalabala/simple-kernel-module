@@ -1,0 +1,3 @@
+- https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234
+- http://derekmolloy.ie/writing-a-linux-kernel-module-part-1-introduction/
+- https://www.linux.com/learn/kernel-newbie-corner-kernel-and-module-debugging-gdb
